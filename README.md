@@ -1,10 +1,10 @@
-# Reinforcement Learning by Richard Suttone 2nd edition Code Implementation
+# Reinforcement Learning 2nd edition Code Implementation
 Code implementation of examples in sutton rl book 2nd edition  
 ### study members
-han811
-itsnamgyu
-junhyungkang
-limaries30
+han811  
+itsnamgyu  
+junhyungkang  
+limaries30  
 ybkim95  
   
 ### Notice  
@@ -13,6 +13,7 @@ ybkim95
   
 ##### Table  
 |Example number|Name|Author|Date|Link|
+|--------------------|--------------------|--------------------|--------------------|--------------------|
 |example 4.1|grid world|han811|20.11.22||
 |example 4.2|jack's car rental problem|han811|20.11.22||
 |example 4.3|gambler's problem|han811|20.11.22||
