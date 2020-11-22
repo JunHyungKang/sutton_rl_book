@@ -14,7 +14,7 @@ ybkim95
 ##### Table  
 |Example number|Name|Author|Date|Link|
 |--------------------|--------------------|--------------------|--------------------|--------------------|
-|example 4.1|grid world|han811|20.11.22||
-|example 4.2|jack's car rental problem|han811|20.11.22||
-|example 4.3|gambler's problem|han811|20.11.22||
+|example 4.1|grid world|han811|20.11.22|[LINK](https://github.com/han811/sutton_rl_book/blob/main/chapter4_DP/gridworld.py)|
+|example 4.2|jack's car rental problem|han811|20.11.22|[LINK](https://github.com/han811/sutton_rl_book/blob/main/chapter4_DP/jacks_car_rental.py)|
+|example 4.3|gambler's problem|han811|20.11.22|[LINK](https://github.com/han811/sutton_rl_book/blob/main/chapter4_DP/gamblers_problem.py)|
 
